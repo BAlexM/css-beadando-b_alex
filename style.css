@@ -1,0 +1,41 @@
+.d1{
+    text-align: center;
+    margin-right: 140px;
+    margin-left: 140px;
+    height: 110px;
+    width: 800px;
+    background-image: url(fejlec.jpg);
+}
+.d2{
+    margin-left: 150px;
+    height: 500px;
+    width: 200px;
+    padding-top: 15px;
+    background-color: #e8e8e8;
+}
+.d3{
+    width: 570px;
+    height: 500px;
+    padding-top: 15px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(tartalomkep.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    padding-top: 30px;
+}
+h2{
+    color: #800000;
+}
+img{
+    padding-top: 185px;
+    height: 150px;
+    width: 200px;
+}
+.el{
+    text-align: center;
+    color: #800000;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
